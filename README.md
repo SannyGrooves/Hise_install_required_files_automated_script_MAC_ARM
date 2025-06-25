@@ -1,6 +1,21 @@
 # Hise install required files (automated script) MAC ARM
 AUTOMATED SCRIPT TO INSTALL ALL REQUIRED FILES FOR USING HISE VST BUILDER
 
+
+Usage:
+
+    Save as install.sh
+    Right click the file 'display info'
+    Copy path
+    start terminal: cd <path>
+    Make executable: chmod +x install.sh.
+    Run: ./install.sh.
+    Check $HOME/hise_install.log if errors occur.
+
+    when installed, you can start the script again, it will say eveyting is already installed see:
+![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
+
+
 script for setting up the HISE VST development program on a macOS ARM-based machine and add error handlers, we’ll streamline the code, improve efficiency, and enhance robustness. The optimized script will:
 
     Minimize redundant checks and operations.
@@ -44,20 +59,6 @@ Error Handlers Added:
     VST3 SDK Download/Extraction: Checks for download failures, empty files, or extraction issues (e.g., wrong password).
     Directory Creation: Ensures directories are created and permissions are set correctly.
     Projucer: Verifies Projucer existence and permissions.
-
-Usage:
-
-    Save as install.sh
-    Right click the file 'display info'
-    Copy path
-    start terminal: cd <path>
-    Make executable: chmod +x install.sh.
-    Run: ./install.sh.
-    Check $HOME/hise_install.log if errors occur.
-
-    when installed, you can start the script again, it will say eveyting is already installed see:
-![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
-
 
 
 Notes:
