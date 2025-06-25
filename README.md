@@ -1,4 +1,4 @@
-# Hise_install_required_files_automated_script_MAC_ARM
+# Hise install required files (automated script) MAC ARM
 AUTOMATED SCRIPT TO INSTALL ALL REQUIRED FILES FOR USING HISE VST BUILDER
 
 script for setting up the HISE VST development program on a macOS ARM-based machine and add error handlers, we’ll streamline the code, improve efficiency, and enhance robustness. The optimized script will:
