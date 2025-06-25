@@ -47,10 +47,17 @@ Error Handlers Added:
 
 Usage:
 
-    Save as install.sh.
+    Save as install.sh
+    Right click the file 'display info'
+    Copy path
+    start terminal: cd <path>
     Make executable: chmod +x install.sh.
     Run: ./install.sh.
     Check $HOME/hise_install.log if errors occur.
+
+    when installed, you can start the script again, it will say eveyting is already installed see:
+    
+![afbeelding](https://github.com/user-attachments/assets/4ef68a8b-0831-4e27-9506-7459cee80984)
 
 Notes:
 
