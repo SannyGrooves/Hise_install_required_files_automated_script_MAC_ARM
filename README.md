@@ -8,12 +8,13 @@ Usage:
     Right click the file 'display info'
     Copy path
     start terminal: cd <path>
+    ![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
+
     Make executable: chmod +x install.sh.
     Run: ./install.sh.
     Check $HOME/hise_install.log if errors occur.
 
-    when installed, you can start the script again, it will say eveyting is already installed see:
-![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
+    when installed, you can start the script again, it will say eveyting is already installed.
 
 
 script for setting up the HISE VST development program on a macOS ARM-based machine and add error handlers, we’ll streamline the code, improve efficiency, and enhance robustness. The optimized script will:
