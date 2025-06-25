@@ -56,8 +56,9 @@ Usage:
     Check $HOME/hise_install.log if errors occur.
 
     when installed, you can start the script again, it will say eveyting is already installed see:
-    
-![afbeelding](https://github.com/user-attachments/assets/4ef68a8b-0831-4e27-9506-7459cee80984)
+![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
+
+
 
 Notes:
 
