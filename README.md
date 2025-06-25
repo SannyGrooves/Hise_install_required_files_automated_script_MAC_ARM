@@ -1,0 +1,2 @@
+# Hise_install_required_files_automated_script_MAC_ARM
+AUTOMATED SCRIPT TO INSTALL ALL REQUIRED FILES FOR USING HISE VST BUILDER
