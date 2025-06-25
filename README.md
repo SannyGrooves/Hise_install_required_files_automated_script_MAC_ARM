@@ -8,7 +8,7 @@ Usage:
     Right click the file 'display info'
     Copy path
     start terminal: cd <path>
-    ![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
+![ezgif-31ca8fe4e64a30](https://github.com/user-attachments/assets/0391ba71-bda4-4360-94fb-6dde9f90d60b)
 
     Make executable: chmod +x install.sh.
     Run: ./install.sh.
